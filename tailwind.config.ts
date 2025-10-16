@@ -57,6 +57,14 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        seat: {
+          faculty: "hsl(var(--faculty-seat))",
+          girl: "hsl(var(--girl-seat))",
+          boy: "hsl(var(--boy-seat))",
+          user: "hsl(var(--user-seat))",
+          available: "hsl(var(--available-seat))",
+          occupied: "hsl(var(--occupied-seat))",
+        },
       },
       borderRadius: {
         lg: "var(--radius)",
